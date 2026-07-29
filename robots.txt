@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hapjeong-club-note.nrb-apgujeong-guide.xyz/sitemap.xml
